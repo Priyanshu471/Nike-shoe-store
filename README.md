@@ -32,6 +32,7 @@ You need to have the following installed on your local machine to run the applic
 
 - ReactJS: A JavaScript library for building user interfaces
 - Tailwind CSS: A utility-first CSS framework
+- SCSS: Uses syntax called the indented syntax
 - React Router: A routing library for React applications
 - Redux for for managing and centralizing application state
 
