@@ -1,6 +1,7 @@
-# Nike Shoe Store
 
+# Nike Shoe Store
 This is an ecommerce website for the Nike shoe store built using ReactJS and Tailwind CSS.
+* Live -> https://nike-sneaker-store-clone.netlify.app/
 
 ## Getting Started
 
